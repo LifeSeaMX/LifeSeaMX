@@ -10,11 +10,9 @@ identificar opciones de Ecoturismo en las playas de México.
 Para este desarrollo usamos tecnologías para el diseño del Frontend como CSS,HTML y JS. En cuanto a la parte del 
 Backend usamos Java, Docker, Hibernate, Jakarta y mySQL, éste último para la creación de una dba con el fin de registrar zonas protegidas en las costas de nuestro país y así brindarle la información al turista de dónde puede ir y tenga el contacto con las asociaciones que preservan y delimitan las actividades que se pueden realizar en cada área. 
 
-![image](https://user-images.githubusercontent.com/9124597/168210122-81d164fc-199c-4995-a375-d767add6bdce.png)
 
-![image](https://user-images.githubusercontent.com/9124597/168212960-4c4e7656-70a4-4acf-a375-b55a0fc831bb.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image%20(1).png)
 
 ¡POR UN TURISMO RESPONSABLE!
 
