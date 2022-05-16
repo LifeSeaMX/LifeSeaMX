@@ -111,6 +111,19 @@
         </div>
     </div>
 </figure>
+    
+    <h2 class="titulo-mapa">Mapa de las Asociaciones enfocadas el Turismo Sustentable</h2>
+
+<!-- mapa -->
+
+<div class="mapa">
+
+   
+
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1hrhRc4TCus0_2dhrak3hOs6DO196iU7C&ehbc=2E312F" width="700" height="500"></iframe>
+
+</div>
+    
 <!--Esto es el inicio del footer-->
 <footer class="footer">
     <div class="container">
