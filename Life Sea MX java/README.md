@@ -14,15 +14,27 @@ Backend usamos Java, Docker, Hibernate, Jakarta y mySQL, éste último para la c
 
 ![alt text](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image%20(1).png)
 
+![alt tex](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image%20(2).png)
+
+![alt text](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image%20(3).png)
+
+![alt text](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image%20(4).png)
+
+![alt text](https://github.com/LifeSeaMX/LifeSeaMX/blob/main/Life%20Sea%20MX%20java/Img.Funcionamiento/MicrosoftTeams-image.png)
+
 ¡POR UN TURISMO RESPONSABLE!
 
-Realizado por:
+> Realizado por: 
 
-Jesús Marco Galindo:    https://github.com/mxgmr
-Lizeth Abigail Damian:  https://github.com/LizethDamian
-Gerardo Alonso Garcia:  https://github.com/AlonsoAscencio
-Fabio Chan Moguel:      https://github.com/FabioChanM
-Jorge Alberto Garcia:   https://github.com/AlbertoAscencio88
+>>Jesús Marco Galindo:    https://github.com/mxgmr
+>>
+>>Lizeth Abigail Damian:  https://github.com/LizethDamian
+>>
+>>Gerardo Alonso Garcia:  https://github.com/AlonsoAscencio
+>>
+>>Fabio Chan Moguel:      https://github.com/FabioChanM
+>>
+>>Jorge Alberto Garcia:   https://github.com/AlbertoAscencio88
 
 Créditos a Fernanda Ochoa por el material de apoyo- Learning Producer de LaunchX & Mission Commander de LaunchX.
 
